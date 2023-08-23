@@ -3,9 +3,9 @@
 Code for "Antimicrobial heteroresistance confers an evolutionary fitness advantage only under specific drug treatment conditions".
 
 
-# Get start
+## Description
 
-We used a pharmacokinetic-pharmacodynamic (PK-PD) model to explore bacterial population dynamics in response to the three antibiotic therapy regimens (Refering to our manuscript) under conditions simulating the treatment of infected patients.
+We used a pharmacokinetic-pharmacodynamic (PK-PD) model to explore bacterial population dynamics in response to the three antibiotic therapy regimens (INC, SAME and sequential treatments) under conditions simulating the treatment of infected patients. Please refer to our manuscript for details.
 
 
 ## Files
