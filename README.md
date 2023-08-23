@@ -15,9 +15,9 @@ Model_function_Lewis: Model function for Stochastic Simulation Algorithm with Le
 Hill_estimate: The Hill function were estimated by fitting the function to the obtained net growth rates
 SSA_Comparison: Adaptive tau-leaping and Lewis-thinning were compared to get the time step for simulation
 Scenario_INC: Simulation for INC evolution
-Scenario_SAME: Simulation for SAME evolution 
-Scenario_SEQ_1: Simulation for 1-day cycling treatments 
-Scenario_SEQ_3: Simulation for 3-day cycling treatments 
+Scenario_SAME: Simulation for SAME evolution
+Scenario_SEQ_1: Simulation for 1-day cycling treatments
+Scenario_SEQ_3: Simulation for 3-day cycling treatments
 
 
 ## Get help
